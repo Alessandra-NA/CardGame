@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable
+        name="Carta">
+        <attr name="tipoA" format="string"/>
+        <attr name="numeroA" format="integer"/>
+    </declare-styleable>
+
+
+</resources>
